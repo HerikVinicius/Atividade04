@@ -1,0 +1,7 @@
+numero = int(input("qual seu numero?"))
+antecessor = (numero-1)
+print ("o antecessor é")
+print (antecessor)
+sucessor = (numero+1)
+print ("o sucessor é")
+print (sucessor)
